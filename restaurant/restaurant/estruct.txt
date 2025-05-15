@@ -1,0 +1,16 @@
+/app
+  /login
+    page.tsx
+  /menus
+    page.tsx
+  /admin/menus
+    page.tsx
+/components
+  AuthProvider.tsx
+  withAuth.tsx
+  withRole.tsx
+/lib
+  auth.ts
+  roles.ts
+/types
+  index.ts
