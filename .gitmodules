@@ -1,3 +1,6 @@
 [submodule "habit-tracker"]
 	path = habit-tracker
 	url = https://github.com/CamilaAmilivia/-habit-tracker.git
+[submodule "Aplicacion-Cafe"]
+	path = Aplicacion-Cafe
+	url = https://github.com/CamilaAmilivia/Aplicacion-Cafe.git
